@@ -1,6 +1,6 @@
 # EDNRB-PMEL-Lethal-White-Double-Merle
 
-Genes are biologically fundamental. However, there are variants that express harmful conditions, which may even be incompatible with life. Under the regulation of melanocyte inducing transcription factor (MITF), the premelanosome protein (PMEL) gene is related to white coat color and deafness in double merle dogs, while endothelin receptor type B (EDNRB) does the same in frame overo horses and goes further: it causes death.
+Genes are biologically fundamental. However, there are variants that express harmful conditions, which may even be incompatible with life. Under the regulation of melanocyte inducing transcription factor (MITF), the premelanosome protein (PMEL) gene is related to white coat color and deafness in double merle dogs (*Canis lupus familiaris*), while endothelin receptor type B (EDNRB) does the same in frame overo horses (*Equus caballus*) and goes further: it causes death.
 
 # Objective
 
