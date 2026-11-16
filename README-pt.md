@@ -10,10 +10,10 @@ Os genes são biologicamente fundamentais. No entanto, há variantes que express
 - Entender por que a letalidade se restringe ao cavalo.
 
 # Método
-1. Baixei as sequências FASTA de PMEL do cão e EDNRB do cavalo pelo banco de dados National Center for Biotechnology Information (NCBI)
-2. Alinhei no Clustal Omega para comparar o DNA
-3. Calculei a identidade e o score, usando Python e Biopython pelo Visual Studio Code (VS Code)
-4. Utilizei o Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) para observar a interação de MITF com PMEL e EDNRB
+1. Baixei as sequências FASTA de PMEL do cão e EDNRB do cavalo pelo banco de dados National Center for Biotechnology Information (NCBI);
+2. Alinhei no Clustal Omega para comparar o DNA;
+3. Calculei a identidade e o score, usando Python e Biopython pelo Visual Studio Code (VS Code);
+4. Utilizei o Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) para observar a interação de MITF com PMEL e EDNRB.
   
 **Softwares utilizados:**
 - NCBI
