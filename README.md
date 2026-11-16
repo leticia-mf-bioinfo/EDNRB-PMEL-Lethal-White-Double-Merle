@@ -1,13 +1,12 @@
 # EDNRB-PMEL-Lethal-White-Double-Merle
 
-Os genes são biologicamente fundamentais. No entanto, há variantes que expressam condições prejudiciais, podendo até ser incompatíveis com a vida. Com a regulagem feita pelo melanocyte inducing transcription factore (MITF), o gene premelanosome protein (PMEL) está relacionado à cor branca e à surdez em cães, enquanto endothelin receptor type B (EDNRB) faz o mesmo em cavalos e vai além: causa a morte.
-# Objetivo
+Genes are biologically fundamental. However, there are variants that express harmful conditions, which may even be incompatible with life. Under the regulation of melanocyte inducing transcription factor (MITF), the premelanosome protein (PMEL) gene is related to white coat color and deafness in dogs, while endothelin receptor type B (EDNRB) does the same in horses and goes further: it causes death.
 
-- Comparar as sequências genômicas de PMEL e EDNRB;
+# Objective
 
-- Analisar suas interações com MITF;
+- To compare the genomic sequences of PMEL and EDNRB;
+- To analyze their interactions with MITF;
+- To understand how different loci result in such similar phenotypes: white coat, deafness, and ocular alterations;
+- To understand why lethality is restricted to the horse.
 
-- Compreender como loci diferentes resultam em fenótipos tão semelhantes: pelagem branca, surdez e alterações oculares;
-
-- Entender como a letalidade abrange somente o cavalo.
-# Método
+# Method
