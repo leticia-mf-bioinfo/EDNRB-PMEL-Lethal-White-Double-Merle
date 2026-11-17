@@ -4,7 +4,7 @@ Genes are biologically fundamental. However, there are variants that express har
 
 # Objectives
 
-- Compare the genomic sequences of PMEL and EDNRB;
+- Compare the protein sequences of PMEL and EDNRB;
 - Analyze their interactions with MITF;
 - Understand how different loci result in such similar phenotypes: white coat, deafness, and ocular alterations;
 - Understand why lethality is restricted to the horse.
