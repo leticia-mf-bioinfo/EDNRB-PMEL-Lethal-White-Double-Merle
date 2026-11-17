@@ -4,7 +4,7 @@ Os genes são biologicamente fundamentais. No entanto, há variantes que express
 
 # Objetivos
 
-- Comparar as sequências genômicas de PMEL e EDNRB;
+- Comparar as sequências proteicas de PMEL e EDNRB;
 - Analisar suas interações com MITF;
 - Compreender como loci diferentes resultam em fenótipos tão semelhantes: pelagem branca, surdez e alterações oculares;
 - Entender por que a letalidade se restringe ao cavalo.
