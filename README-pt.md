@@ -11,13 +11,11 @@ Os genes são biologicamente fundamentais. No entanto, há variantes que express
 
 # Métodos
 1. Baixei as sequências FASTA de PMEL do cão e EDNRB do cavalo pelo banco de dados National Center for Biotechnology Information (NCBI);
-2. Alinhei no Clustal Omega para comparar o DNA;
-3. Calculei a identidade e a similaridade, usando Python e Biopython pelo Visual Studio Code (VS Code);
-4. Utilizei o Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) para observar as redes de interação entre MITF, PMEL e EDNRB nas duas espécies.
+2. Calculei a identidade e a similaridade, usando Python e Biopython pelo Visual Studio Code (VS Code) para comparar as sequências de proteína;
+3. Utilizei o Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) para observar as redes de interação entre MITF, PMEL e EDNRB nas duas espécies.
   
-**Softwares utilizados:**
+**Recursos utilizados:**
 - NCBI
-- Clustal Omega
 - VS Code
 - Python
 - Biopython
